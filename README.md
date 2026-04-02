@@ -1,5 +1,5 @@
 # Restaurant-Recommendation 
-Task 1 :Restaurant-rating-Prediction
+Task 2 :Restaurant-Recommendation 
 
 company: Cognifyz
 
